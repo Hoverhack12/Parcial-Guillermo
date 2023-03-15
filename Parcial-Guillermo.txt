@@ -1,0 +1,1 @@
+Para entrar en la vista del proyecto tiene que poner el archivo en htdocs del xampp, poner el link http://localhost:8080/parcial/
